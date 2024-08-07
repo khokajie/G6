@@ -37,6 +37,9 @@ public class Student {
  {
      System.out.println("Hello");
      return;
-}
-void myTest();
+ }
+
+    void myTest(){
+        System.out.println("diu");
+    }
 }
