@@ -42,4 +42,8 @@ public class Student {
     void myTest(){
         System.out.println("diu");
     }
+
+    int countAll(){
+        return 0;
+    }
 }
